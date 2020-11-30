@@ -1,0 +1,27 @@
+[
+  "name", "sunil",
+{
+  "name": "Item A",
+  "price": "25",
+  "discount": "5"
+
+},
+{
+  "name": "ItemB",
+  "price": "13",
+  "discount": "3"
+
+},
+{
+  "name": "ItemC",
+  "price": "12",
+  "discount": "2"
+
+},
+{
+  "name": "Item B",
+  "price": "50",
+  "discount": "14"
+
+}
+]
